@@ -1,0 +1,26 @@
+body {
+  margin-top: 200px;
+  margin-left: 300px;
+}
+button {
+  margin-right: 100px;
+  padding: 10px;
+}
+.success {
+  border: 2px solid green;
+}
+.error {
+  border: 2px solid red;
+}
+div {
+  margin-top: 100px;
+  border: 2px solid green;
+  /* margin-left: 50px; */
+  padding: 50px;
+  width: 300px;
+  display: none;
+}
+h1,
+p {
+  color: green;
+}
